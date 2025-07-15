@@ -1,0 +1,2 @@
+interface ITask{}
+class Task{}
